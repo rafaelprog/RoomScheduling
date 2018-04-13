@@ -1,0 +1,9 @@
+C:\Users\Formmicro Dev\source\repos\RoomScheduling\RoomScheduling.Common\bin\Debug\RoomScheduling.Common.dll
+C:\Users\Formmicro Dev\source\repos\RoomScheduling\RoomScheduling.Common\bin\Debug\RoomScheduling.Common.pdb
+C:\Users\Formmicro Dev\source\repos\RoomScheduling\RoomScheduling.Common\obj\Debug\RoomScheduling.Common.csprojResolveAssemblyReference.cache
+C:\Users\Formmicro Dev\source\repos\RoomScheduling\RoomScheduling.Common\obj\Debug\RoomScheduling.Common.Resources.Errors.resources
+C:\Users\Formmicro Dev\source\repos\RoomScheduling\RoomScheduling.Common\obj\Debug\RoomScheduling.Common.Resources.Internal.resources
+C:\Users\Formmicro Dev\source\repos\RoomScheduling\RoomScheduling.Common\obj\Debug\RoomScheduling.Common.csproj.GenerateResource.cache
+C:\Users\Formmicro Dev\source\repos\RoomScheduling\RoomScheduling.Common\obj\Debug\RoomScheduling.Common.csproj.CoreCompileInputs.cache
+C:\Users\Formmicro Dev\source\repos\RoomScheduling\RoomScheduling.Common\obj\Debug\RoomScheduling.Common.dll
+C:\Users\Formmicro Dev\source\repos\RoomScheduling\RoomScheduling.Common\obj\Debug\RoomScheduling.Common.pdb

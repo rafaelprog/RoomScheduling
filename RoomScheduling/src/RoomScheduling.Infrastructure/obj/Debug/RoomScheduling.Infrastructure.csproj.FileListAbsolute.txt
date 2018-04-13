@@ -1,0 +1,14 @@
+C:\Users\Formmicro Dev\source\repos\RoomScheduling\RoomScheduling.Infrastructure\bin\Debug\RoomScheduling.Infrastructure.dll.config
+C:\Users\Formmicro Dev\source\repos\RoomScheduling\RoomScheduling.Infrastructure\bin\Debug\RoomScheduling.Infrastructure.dll
+C:\Users\Formmicro Dev\source\repos\RoomScheduling\RoomScheduling.Infrastructure\bin\Debug\RoomScheduling.Infrastructure.pdb
+C:\Users\Formmicro Dev\source\repos\RoomScheduling\RoomScheduling.Infrastructure\bin\Debug\EntityFramework.dll
+C:\Users\Formmicro Dev\source\repos\RoomScheduling\RoomScheduling.Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Formmicro Dev\source\repos\RoomScheduling\RoomScheduling.Infrastructure\bin\Debug\RoomScheduling.Domain.dll
+C:\Users\Formmicro Dev\source\repos\RoomScheduling\RoomScheduling.Infrastructure\bin\Debug\RoomScheduling.Domain.pdb
+C:\Users\Formmicro Dev\source\repos\RoomScheduling\RoomScheduling.Infrastructure\bin\Debug\EntityFramework.xml
+C:\Users\Formmicro Dev\source\repos\RoomScheduling\RoomScheduling.Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Formmicro Dev\source\repos\RoomScheduling\RoomScheduling.Infrastructure\obj\Debug\RoomScheduling.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\Formmicro Dev\source\repos\RoomScheduling\RoomScheduling.Infrastructure\obj\Debug\RoomScheduling.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Formmicro Dev\source\repos\RoomScheduling\RoomScheduling.Infrastructure\obj\Debug\RoomScheduling.Infrastructure.csproj.CopyComplete
+C:\Users\Formmicro Dev\source\repos\RoomScheduling\RoomScheduling.Infrastructure\obj\Debug\RoomScheduling.Infrastructure.dll
+C:\Users\Formmicro Dev\source\repos\RoomScheduling\RoomScheduling.Infrastructure\obj\Debug\RoomScheduling.Infrastructure.pdb

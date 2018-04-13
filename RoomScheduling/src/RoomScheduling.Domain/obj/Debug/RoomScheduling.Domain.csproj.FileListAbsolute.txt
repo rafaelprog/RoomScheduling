@@ -1,0 +1,6 @@
+C:\Users\Formmicro Dev\source\repos\RoomScheduling\RoomScheduling.Domain\bin\Debug\RoomScheduling.Domain.dll
+C:\Users\Formmicro Dev\source\repos\RoomScheduling\RoomScheduling.Domain\bin\Debug\RoomScheduling.Domain.pdb
+C:\Users\Formmicro Dev\source\repos\RoomScheduling\RoomScheduling.Domain\obj\Debug\RoomScheduling.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Formmicro Dev\source\repos\RoomScheduling\RoomScheduling.Domain\obj\Debug\RoomScheduling.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Formmicro Dev\source\repos\RoomScheduling\RoomScheduling.Domain\obj\Debug\RoomScheduling.Domain.dll
+C:\Users\Formmicro Dev\source\repos\RoomScheduling\RoomScheduling.Domain\obj\Debug\RoomScheduling.Domain.pdb
